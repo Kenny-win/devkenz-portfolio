@@ -2,7 +2,7 @@
 
 Welcome to the official repository of my personal portfolio website. This project showcases my professional journey, academic dedication, technical projects, and unique multidisciplinary skills bridging technology and languages.
 
-🌐 **Live Demo:** [Insert Your Vercel/Netlify Link Here]
+🌐 **Live Demo:** [soon]
 
 ---
 
